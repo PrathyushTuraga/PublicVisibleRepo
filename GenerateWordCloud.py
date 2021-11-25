@@ -1,4 +1,4 @@
-url = 'http://localhost:3000/DataScienceWikipedia.html'
+url = 'https://en.wikipedia.org/wiki/Data_science'
 import requests
 import nlp_rake
 import matplotlib.pyplot as plt
